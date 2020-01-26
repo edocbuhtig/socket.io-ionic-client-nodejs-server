@@ -36,3 +36,24 @@ You can use the latest Ionic v4/5 for this and it works the same.
 ## Screenshot
 
 ![Ionic v3 Demo](https://github.com/edocbuhtig/socket.io-ionic-client-nodejs-server/blob/master/screenshot/demoscreen.png)
+
+## Ionic Info used for this repo
+```
+Ionic:
+
+   Ionic CLI          : 5.4.15 
+   Ionic Framework    : ionic-angular 3.9.9
+   @ionic/app-scripts : 3.2.4
+
+Cordova:
+
+   Cordova CLI       : 9.0.0 (cordova-lib@9.0.1)
+   Cordova Platforms : none
+   Cordova Plugins   : no whitelisted plugins (0 plugins total)
+
+System:
+
+   NodeJS            : v12.14.1 
+   npm               : 6.13.4
+   OS                : macOS Catalina
+```

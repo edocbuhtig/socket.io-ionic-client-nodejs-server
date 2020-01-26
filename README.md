@@ -32,3 +32,7 @@ To test the app on the same wifi/network use,
 Grab the url with ip address, and point your external device browser to this address.
 
 You can use the latest Ionic v4/5 for this and it works the same. 
+
+## Screenshot
+
+![Ionic v3 Demo](https://github.com/edocbuhtig/socket.io-ionic-client-nodejs-server/blob/master/screenshot/demoscreen.png)
